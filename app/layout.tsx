@@ -74,11 +74,7 @@ export default function RootLayout({
         {/* Async Font Loading - Non-blocking */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link rel="prefetch" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Sora:wght@300;400;600;700&display=swap" />
-        <link as="style" rel="prefetch" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Sora:wght@300;400;600;700&display=swap" onLoad={(e: any) => {e.target.onload=null; e.target.rel='stylesheet'}} />
-        <noscript>
-          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Sora:wght@300;400;600;700&display=swap" />
-        </noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Sora:wght@300;400;600;700&display=swap" />
         
         {/* Favicon and SEO */}
         <link rel="icon" href="/favicon.ico" />

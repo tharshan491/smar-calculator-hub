@@ -4,6 +4,9 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { contentService } from '@/lib/content-service';
 
+// Mark route as dynamic since it uses search parameters
+export const dynamic = 'force-dynamic';
+
 /**
  * GET /api/content
  * Returns list of all calculator content

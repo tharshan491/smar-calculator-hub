@@ -21,6 +21,8 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  // Increase timeout for pre-rendering 100+ pages
+  staticPageGenerationTimeout: 600,
   trailingSlash: false,
   generateEtags: true,
   modularizeImports: {

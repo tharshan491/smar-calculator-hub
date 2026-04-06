@@ -5,6 +5,9 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { contentService } from '@/lib/content-service';
 
+// Use ISR instead of static generation to avoid timeout
+export const revalidate = 3600; // Revalidate every 1 hour
+
 interface Props {
   params: {
     slug: string;

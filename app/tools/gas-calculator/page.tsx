@@ -55,7 +55,7 @@ export default function GasCalculatorCalculator() {
 
       // Calculate MPG and KMPL
       const kmpl = distance / fuelUsed
-      const mpg = kmpl * 1.60934
+      const mpg = kmpl / 1.60934
 
       // Cost calculations
       const costPer100km = (fuelPrice * 100) / kmpl

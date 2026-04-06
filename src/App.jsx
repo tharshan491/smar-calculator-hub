@@ -3,9 +3,6 @@ import Articles from './Articles.jsx';
 import ArticlesExpanded from './ArticlesExpanded.jsx';
 import FAQ from './FAQ.jsx';
 import Blog from './Blog.jsx';
-import ArticlesExpanded from './ArticlesExpanded.jsx';
-import FAQ from './FAQ.jsx';
-import Blog from './Blog.jsx';
 import ToolsGuides from './ToolsGuides.jsx';
 
 // ─── Inline CSS ───────────────────────────────────────────────────────────────

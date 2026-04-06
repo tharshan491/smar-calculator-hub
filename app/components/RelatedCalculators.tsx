@@ -30,7 +30,7 @@ export function RelatedCalculators({ currentCalculatorId, category, maxItems = 3
             href={calc.href}
             className="group flex items-start gap-4 p-3 hover:bg-accent/5 rounded-lg transition-colors"
           >
-            <div className="text-2xl flex-shrink-0">{calc.icon}</div>
+            <div className="text-2xl flex-shrink-0">{typeof calc.icon === 'function' ? <calc.icon /> : calc.icon as React.ReactNode}</div>
             <div className="flex-1 min-w-0">
               <h4 className="font-semibold text-text group-hover:text-accent transition-colors">{calc.name}</h4>
               <p className="text-sm text-muted truncate">{calc.description}</p>

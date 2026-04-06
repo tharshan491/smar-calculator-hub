@@ -14,7 +14,8 @@ export default function JSONFormatter() {
       setOutput(formatted)
       setIsValid(true)
     } catch (error) {
-      setOutput(`Error: ${error.message}`)
+      const errorMsg = error instanceof Error ? error.message : 'Invalid JSON'
+      setOutput(`Error: ${errorMsg}`)
       setIsValid(false)
     }
   }
@@ -26,7 +27,8 @@ export default function JSONFormatter() {
       setOutput(minified)
       setIsValid(true)
     } catch (error) {
-      setOutput(`Error: ${error.message}`)
+      const errorMsg = error instanceof Error ? error.message : 'Invalid JSON'
+      setOutput(`Error: ${errorMsg}`)
       setIsValid(false)
     }
   }

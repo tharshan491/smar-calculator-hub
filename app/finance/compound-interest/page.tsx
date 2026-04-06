@@ -189,7 +189,7 @@ export default function CompoundInterest() {
               </div>
               <div className="flex justify-between">
                 <span className="text-muted">Compounding:</span>
-                <span className="font-bold">{frequencyLabel[result.frequency as keyof typeof frequencyLabel]}</span>
+                <span className="font-bold">{frequencyLabel[String(result.frequency) as keyof typeof frequencyLabel]}</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-muted">Effective Annual Rate:</span>

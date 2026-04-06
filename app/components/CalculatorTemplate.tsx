@@ -148,7 +148,7 @@ export function CalculatorTemplate({
         </div>
 
         {/* Related Calculators - 2-way linking */}
-        {calculatorId && <RelatedCalculators calculatorId={calculatorId} category={category} maxItems={3} />}
+        {calculatorId && <RelatedCalculators currentCalculatorId={calculatorId} category={category} maxItems={3} />}
       </main>
 
       <Footer />

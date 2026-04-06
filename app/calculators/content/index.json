@@ -1,0 +1,147 @@
+{
+  "calculators": [
+    {
+      "id": "FIN-001",
+      "title": "Loan Calculator with Amortization Schedule",
+      "slug": "loan-calculator-with-amortization-schedule",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "loan calculator",
+        "amortization schedule",
+        "EMI",
+        "monthly payments"
+      ],
+      "publishedAt": "2026-04-05T23:39:55.047Z",
+      "url": "/calculators/loan-calculator-with-amortization-schedule"
+    },
+    {
+      "id": "FIN-002",
+      "title": "Mortgage Payment Calculator",
+      "slug": "mortgage-payment-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "mortgage calculator",
+        "property taxes",
+        "mortgage payments"
+      ],
+      "publishedAt": "2026-04-05T23:39:56.064Z",
+      "url": "/calculators/mortgage-payment-calculator"
+    },
+    {
+      "id": "FIN-003",
+      "title": "Compound Interest Calculator",
+      "slug": "compound-interest-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "compound interest",
+        "monthly contributions",
+        "investment growth"
+      ],
+      "publishedAt": "2026-04-05T23:39:57.079Z",
+      "url": "/calculators/compound-interest-calculator"
+    },
+    {
+      "id": "FIN-004",
+      "title": "Savings Calculator",
+      "slug": "savings-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "savings calculator",
+        "savings growth",
+        "financial planning"
+      ],
+      "publishedAt": "2026-04-05T23:39:58.096Z",
+      "url": "/calculators/savings-calculator"
+    },
+    {
+      "id": "FIN-005",
+      "title": "Retirement Calculator",
+      "slug": "retirement-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "retirement calculator",
+        "retirement planning",
+        "inflation"
+      ],
+      "publishedAt": "2026-04-05T23:39:59.111Z",
+      "url": "/calculators/retirement-calculator"
+    },
+    {
+      "id": "FIN-006",
+      "title": "Credit Card Payoff Calculator",
+      "slug": "credit-card-payoff-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "credit card payoff",
+        "debt reduction",
+        "interest charges"
+      ],
+      "publishedAt": "2026-04-05T23:40:00.129Z",
+      "url": "/calculators/credit-card-payoff-calculator"
+    },
+    {
+      "id": "FIN-024",
+      "title": "Budget Calculator",
+      "slug": "budget-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "budget calculator",
+        "budget planning",
+        "expenses"
+      ],
+      "publishedAt": "2026-04-05T23:40:01.145Z",
+      "url": "/calculators/budget-calculator"
+    },
+    {
+      "id": "FIN-026",
+      "title": "Paycheck Calculator",
+      "slug": "paycheck-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "paycheck calculator",
+        "take-home pay",
+        "net income"
+      ],
+      "publishedAt": "2026-04-05T23:40:02.306Z",
+      "url": "/calculators/paycheck-calculator"
+    },
+    {
+      "id": "FIN-029",
+      "title": "ROI Calculator",
+      "slug": "roi-calculator",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "return on investment",
+        "ROI",
+        "investment performance"
+      ],
+      "publishedAt": "2026-04-05T23:40:03.325Z",
+      "url": "/calculators/roi-calculator"
+    },
+    {
+      "id": "FIN-032",
+      "title": "Currency Converter",
+      "slug": "currency-converter",
+      "category": "financial",
+      "priority": "high",
+      "keywords": [
+        "currency converter",
+        "exchange rates",
+        "forex"
+      ],
+      "publishedAt": "2026-04-05T23:40:04.342Z",
+      "url": "/calculators/currency-converter"
+    }
+  ],
+  "lastUpdated": "2026-04-05T23:40:04.342Z",
+  "totalItems": 10
+}

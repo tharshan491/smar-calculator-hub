@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Allow: /static/
+Disallow: /api/
+
+Sitemap: https://smart-calc-frontend.vercel.app/sitemap.xml
+
+# Allow search engine bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Crawl delay (optional)
+Crawl-delay: 1

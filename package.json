@@ -1,0 +1,40 @@
+{
+  "name": "smart-calc-frontend",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "content:generate": "node seo-content/prompts-db/auto-publish.js generate",
+    "content:batch": "node seo-content/prompts-db/auto-publish.js batch high:10",
+    "content:batch:medium": "node seo-content/prompts-db/auto-publish.js batch medium:5",
+    "content:pipeline": "node seo-content/prompts-db/auto-publish.js pipeline",
+    "content:status": "node seo-content/prompts-db/auto-publish.js status",
+    "content:schedule": "node seo-content/prompts-db/auto-publish.js schedule daily",
+    "seo:verify": "node seo-content/prompts-db/prompt-manager.js verify",
+    "seo:search": "node seo-content/prompts-db/prompt-manager.js search",
+    "seo:export": "node seo-content/prompts-db/prompt-manager.js export",
+    "seo:stats": "node seo-content/prompts-db/prompt-manager.js stats"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.101.1",
+    "@vercel/analytics": "^2.0.1",
+    "lucide-react": "^0.408.0",
+    "next": "^14.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "25.5.0",
+    "@types/react": "19.2.14",
+    "@typescript-eslint/eslint-plugin": "^8.58.0",
+    "@typescript-eslint/parser": "^8.58.0",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^10.1.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "6.0.2"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "project": "200 SEO Prompts for Calculator Pages",
+  "version": "1.0",
+  "createdDate": "2024-04-05",
+  "lastUpdated": "2024-04-05",
+  "totalPrompts": 200,
+  "contentGenerationTracking": {
+    "phase": 1,
+    "progressPercentage": 5,
+    "generated": 10,
+    "inProgress": 5,
+    "notStarted": 185,
+    "lastUpdated": "2024-04-05T00:00:00Z"
+  },
+  "generatedContent": [
+    {
+      "id": "FIN-001",
+      "title": "Loan Calculator with Amortization Schedule",
+      "filename": "seo-loan-calculator.md",
+      "status": "completed",
+      "generatedDate": "2024-04-05",
+      "wordCount": 2847,
+      "keywords": 12,
+      "sections": 8
+    },
+    {
+      "id": "HEALTH-001",
+      "title": "BMI Calculator",
+      "filename": "seo-bmi-calculator.md",
+      "status": "completed",
+      "generatedDate": "2024-04-05",
+      "wordCount": 2563,
+      "keywords": 10,
+      "sections": 7
+    },
+    {
+      "id": "FIN-003",
+      "title": "Compound Interest Calculator",
+      "filename": "seo-compound-interest.md",
+      "status": "completed",
+      "generatedDate": "2024-04-05",
+      "wordCount": 3142,
+      "keywords": 14,
+      "sections": 9
+    },
+    {
+      "id": "UTIL-001",
+      "title": "Age Calculator",
+      "filename": "seo-age-calculator.md",
+      "status": "completed",
+      "generatedDate": "2024-04-05",
+      "wordCount": 2891,
+      "keywords": 11,
+      "sections": 8
+    }
+  ],
+  "contentPlan": {
+    "phase1": {
+      "name": "MVP Launch",
+      "duration": "4 weeks",
+      "status": "in-progress",
+      "target": 15,
+      "completed": 4,
+      "priority": "high",
+      "startDate": "2024-04-05",
+      "targetDate": "2024-05-03",
+      "description": "Generate SEO content for top 15 high-priority calculators"
+    },
+    "phase2": {
+      "name": "Core Content",
+      "duration": "8 weeks",
+      "status": "not-started",
+      "target": 31,
+      "completed": 0,
+      "priority": "high",
+      "startDate": "2024-05-03",
+      "targetDate": "2024-06-28",
+      "description": "Complete remaining high-priority calculators (35 total)"
+    },
+    "phase3": {
+      "name": "Comprehensive",
+      "duration": "12 weeks",
+      "status": "not-started",
+      "target": 100,
+      "completed": 0,
+      "priority": "medium",
+      "startDate": "2024-06-28",
+      "targetDate": "2024-09-19",
+      "description": "Generate all medium-priority content"
+    },
+    "phase4": {
+      "name": "Complete Coverage",
+      "duration": "ongoing",
+      "status": "not-started",
+      "target": 65,
+      "completed": 0,
+      "priority": "low",
+      "startDate": "2024-09-19",
+      "targetDate": null,
+      "description": "Fill gaps with low-priority content"
+    }
+  },
+  "statistics": {
+    "totalPrompts": 200,
+    "byCategory": {
+      "financial": {
+        "name": "Financial Calculators",
+        "total": 50,
+        "high": 13,
+        "medium": 25,
+        "low": 12,
+        "generated": 1
+      },
+      "math": {
+        "name": "Math Calculators",
+        "total": 50,
+        "high": 4,
+        "medium": 30,
+        "low": 16,
+        "generated": 0
+      },
+      "health": {
+        "name": "Health Calculators",
+        "total": 40,
+        "high": 9,
+        "medium": 20,
+        "low": 11,
+        "generated": 1
+      },
+      "utility": {
+        "name": "Utility Calculators",
+        "total": 60,
+        "high": 9,
+        "medium": 25,
+        "low": 26,
+        "generated": 1
+      }
+    },
+    "byPriority": {
+      "high": {
+        "total": 35,
+        "generated": 2,
+        "percentage": 5.7
+      },
+      "medium": {
+        "total": 100,
+        "generated": 2,
+        "percentage": 2
+      },
+      "low": {
+        "total": 65,
+        "generated": 0,
+        "percentage": 0
+      }
+    },
+    "averageWordCount": 2860,
+    "averageSectionsPerPage": 8,
+    "averageKeywordsPerPage": 11.75
+  },
+  "nextPriority": [
+    {
+      "id": "FIN-002",
+      "title": "Mortgage Payment Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2800,
+      "estimatedSections": 8
+    },
+    {
+      "id": "FIN-024",
+      "title": "Budget Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2700,
+      "estimatedSections": 8
+    },
+    {
+      "id": "FIN-029",
+      "title": "ROI Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2900,
+      "estimatedSections": 9
+    },
+    {
+      "id": "HEALTH-002",
+      "title": "Calorie Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2800,
+      "estimatedSections": 8
+    },
+    {
+      "id": "HEALTH-030",
+      "title": "Metabolism Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2700,
+      "estimatedSections": 8
+    },
+    {
+      "id": "MATH-001",
+      "title": "Percentage Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2600,
+      "estimatedSections": 8
+    },
+    {
+      "id": "UTIL-007",
+      "title": "Payroll Hours Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2700,
+      "estimatedSections": 8
+    },
+    {
+      "id": "UTIL-011",
+      "title": "Unit Converter",
+      "priority": "high",
+      "estimatedWordCount": 2900,
+      "estimatedSections": 9
+    },
+    {
+      "id": "UTIL-021",
+      "title": "Password Generator",
+      "priority": "high",
+      "estimatedWordCount": 2500,
+      "estimatedSections": 7
+    },
+    {
+      "id": "UTIL-026",
+      "title": "Tip Split Calculator",
+      "priority": "high",
+      "estimatedWordCount": 2600,
+      "estimatedSections": 8
+    }
+  ],
+  "qualityMetrics": {
+    "averageSeoScore": 0,
+    "topicsWithMostSearchVolume": [
+      "BMI calculator",
+      "Age calculator",
+      "Loan calculator",
+      "Mortgage calculator",
+      "Currency converter"
+    ],
+    "contentDepthLevels": {
+      "comprehensive": 0,
+      "detailed": 4,
+      "standard": 0,
+      "brief": 0
+    }
+  },
+  "integrationStatus": {
+    "nextjsPages": 0,
+    "metaTagsGenerated": 4,
+    "canonicalUrlsSet": 4,
+    "internalLinksCreated": 4,
+    "schemaMarkupAdded": 0,
+    "responsiveDesignTested": 0
+  },
+  "notes": [
+    "System designed for scalable content generation",
+    "All 200 prompts organized and ready for implementation",
+    "High-priority calculators focus on maximum search volume",
+    "Content templates ensure consistency across all pages",
+    "SEO optimization includes keyword targeting and meta tags",
+    "Each article includes related calculator links for internal linking",
+    "Phase 1 targets completion in 4 weeks (15 major calculators)",
+    "Generation can be automated via batch scripts"
+  ]
+}

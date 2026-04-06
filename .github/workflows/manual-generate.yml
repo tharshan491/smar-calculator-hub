@@ -1,0 +1,88 @@
+name: Manual Content Generation
+
+on:
+  workflow_dispatch:
+    inputs:
+      batchSize:
+        description: 'Number of articles to generate'
+        required: false
+        default: '5'
+        type: choice
+        options:
+          - '5'
+          - '10'
+          - '20'
+          - '50'
+      category:
+        description: 'Category to generate for'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - 'all'
+          - 'finance'
+          - 'health'
+          - 'math'
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    name: Generate Content (Manual)
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 📝 Generate content (Batch: ${{ github.event.inputs.batchSize }}, Category: ${{ github.event.inputs.category }})
+        run: |
+          npm run content:generate -- \
+            --batch ${{ github.event.inputs.batchSize }} \
+            --category ${{ github.event.inputs.category }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: 📂 List generated files
+        run: |
+          echo "Generated files:"
+          ls -la seo-content/api/content/ || echo "No content directory yet"
+
+      - name: 📤 Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: generated content batch (batch: ${{ github.event.inputs.batchSize }}, category: ${{ github.event.inputs.category }})"
+            git push origin main
+          fi
+
+      - name: 🚀 Trigger Vercel deployment
+        run: |
+          curl -X POST "https://api.vercel.com/v13/deployments?teamId=${{ secrets.VERCEL_TEAM_ID }}" \
+            -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d '{"repositoryId":"${{ secrets.VERCEL_PROJECT_ID }}","gitSource":{"type":"github","ref":"main"}}'
+        continue-on-error: true
+
+      - name: ✅ Workflow complete
+        run: |
+          echo "✅ Content generation workflow completed successfully!"
+          echo "Batch size: ${{ github.event.inputs.batchSize }}"
+          echo "Category: ${{ github.event.inputs.category }}"

@@ -1,0 +1,1433 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-04-05",
+    "totalPrompts": 200,
+    "categories": 5,
+    "description": "Complete database of 200 SEO prompts for calculator pages organized by category"
+  },
+  "financial": {
+    "category": "Financial Calculators",
+    "count": 50,
+    "prompts": [
+      {
+        "id": "FIN-001",
+        "title": "Loan Calculator with Amortization Schedule",
+        "prompt": "Write an SEO page for a loan calculator with amortization schedule",
+        "keywords": ["loan calculator", "amortization schedule", "EMI", "monthly payments"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-002",
+        "title": "Mortgage Payment Calculator",
+        "prompt": "Create content for a mortgage payment calculator with taxes included",
+        "keywords": ["mortgage calculator", "property taxes", "mortgage payments"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-003",
+        "title": "Compound Interest Calculator",
+        "prompt": "Generate SEO text for a compound interest calculator with monthly contributions",
+        "keywords": ["compound interest", "monthly contributions", "investment growth"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-004",
+        "title": "Savings Calculator",
+        "prompt": "Write a savings calculator page with yearly growth examples",
+        "keywords": ["savings calculator", "savings growth", "financial planning"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-005",
+        "title": "Retirement Calculator",
+        "prompt": "Create a retirement calculator SEO page with inflation adjustment",
+        "keywords": ["retirement calculator", "retirement planning", "inflation"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-006",
+        "title": "Credit Card Payoff Calculator",
+        "prompt": "Write a credit card payoff calculator guide",
+        "keywords": ["credit card payoff", "debt reduction", "interest charges"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-007",
+        "title": "Investment Return Calculator",
+        "prompt": "Generate content for an investment return calculator",
+        "keywords": ["investment returns", "ROI", "portfolio performance"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-008",
+        "title": "Student Loan Calculator",
+        "prompt": "Create a student loan calculator SEO page",
+        "keywords": ["student loans", "education financing", "loan repayment"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-009",
+        "title": "Car Loan Calculator",
+        "prompt": "Write a car loan calculator landing page",
+        "keywords": ["auto loan", "car financing", "vehicle payment"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-010",
+        "title": "Personal Loan Calculator",
+        "prompt": "Generate a personal loan calculator with EMI explanation",
+        "keywords": ["personal loan", "EMI calculator", "installment"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-011",
+        "title": "Refinance Calculator",
+        "prompt": "Write SEO content for a refinance calculator",
+        "keywords": ["refinance", "loan refinancing", "interest savings"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-012",
+        "title": "Debt-to-Income Ratio Calculator",
+        "prompt": "Create a debt-to-income ratio calculator page",
+        "keywords": ["debt-to-income ratio", "DTI", "creditworthiness"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-013",
+        "title": "Net Worth Calculator",
+        "prompt": "Generate a net worth calculator SEO page",
+        "keywords": ["net worth", "assets", "liabilities", "wealth"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-014",
+        "title": "Simple Interest Calculator",
+        "prompt": "Write a simple interest calculator guide",
+        "keywords": ["simple interest", "interest calculation", "principal"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-015",
+        "title": "Fixed Deposit Calculator",
+        "prompt": "Create a fixed deposit calculator page",
+        "keywords": ["fixed deposit", "FD calculator", "maturity amount"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-016",
+        "title": "Recurring Deposit Calculator",
+        "prompt": "Generate a recurring deposit calculator SEO page",
+        "keywords": ["recurring deposit", "RD calculator", "savings"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-017",
+        "title": "Break-Even Calculator",
+        "prompt": "Write a break-even calculator landing page",
+        "keywords": ["break-even", "business planning", "profitability"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-018",
+        "title": "Business Profit Calculator",
+        "prompt": "Create a business profit calculator page",
+        "keywords": ["profit calculator", "revenue", "expenses"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-019",
+        "title": "Salary Calculator",
+        "prompt": "Generate a salary calculator with tax deductions",
+        "keywords": ["salary calculator", "net pay", "deductions", "taxes"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-020",
+        "title": "Commission Calculator",
+        "prompt": "Write a commission calculator SEO page",
+        "keywords": ["commission", "sales commission", "earnings"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-021",
+        "title": "Discount Calculator",
+        "prompt": "Create a discount calculator SEO page",
+        "keywords": ["discount", "savings", "percentage off"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-022",
+        "title": "Sales Tax Calculator",
+        "prompt": "Generate a sales tax calculator page",
+        "keywords": ["sales tax", "tax calculation", "total price"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-023",
+        "title": "Tip Calculator",
+        "prompt": "Write a tip calculator landing page",
+        "keywords": ["tip calculator", "gratuity", "percentage tip"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-024",
+        "title": "Budget Calculator",
+        "prompt": "Create a budget calculator SEO page",
+        "keywords": ["budget calculator", "budget planning", "expenses"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-025",
+        "title": "Cost of Living Calculator",
+        "prompt": "Generate a cost of living calculator",
+        "keywords": ["cost of living", "expenses", "location comparison"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-026",
+        "title": "Paycheck Calculator",
+        "prompt": "Write a paycheck calculator SEO page",
+        "keywords": ["paycheck calculator", "take-home pay", "net income"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-027",
+        "title": "Lease Calculator",
+        "prompt": "Create a lease calculator page",
+        "keywords": ["lease calculator", "rent calculation", "lease terms"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-028",
+        "title": "Depreciation Calculator",
+        "prompt": "Generate a depreciation calculator",
+        "keywords": ["depreciation", "asset value", "accounting"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-029",
+        "title": "ROI Calculator",
+        "prompt": "Write a ROI calculator landing page",
+        "keywords": ["return on investment", "ROI", "investment performance"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-030",
+        "title": "Markup Calculator",
+        "prompt": "Create a markup calculator page",
+        "keywords": ["markup", "profit margin", "pricing"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-031",
+        "title": "Margin Calculator",
+        "prompt": "Generate a margin calculator SEO page",
+        "keywords": ["profit margin", "margin calculation", "business metrics"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-032",
+        "title": "Currency Converter",
+        "prompt": "Write a currency converter page",
+        "keywords": ["currency converter", "exchange rates", "forex"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-033",
+        "title": "Cryptocurrency Profit Calculator",
+        "prompt": "Create a cryptocurrency profit calculator",
+        "keywords": ["crypto profit", "cryptocurrencies", "trading"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-034",
+        "title": "Dividend Calculator",
+        "prompt": "Generate a dividend calculator SEO page",
+        "keywords": ["dividend calculator", "stock dividends", "investment income"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-035",
+        "title": "Bond Yield Calculator",
+        "prompt": "Write a bond yield calculator page",
+        "keywords": ["bond yield", "fixed income", "bond investment"],
+        "priority": "low"
+      },
+      {
+        "id": "FIN-036",
+        "title": "APR Calculator",
+        "prompt": "Create an APR calculator landing page",
+        "keywords": ["APR", "annual percentage rate", "interest rates"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-037",
+        "title": "APY Calculator",
+        "prompt": "Generate an APY calculator page",
+        "keywords": ["APY", "annual percentage yield", "savings"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-038",
+        "title": "Inflation Calculator",
+        "prompt": "Write an inflation calculator SEO page",
+        "keywords": ["inflation calculator", "purchasing power", "inflation rate"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-039",
+        "title": "Tax Refund Calculator",
+        "prompt": "Create a tax refund calculator",
+        "keywords": ["tax refund", "tax calculation", "income tax"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-040",
+        "title": "VAT Calculator",
+        "prompt": "Generate a VAT calculator page",
+        "keywords": ["VAT calculator", "value added tax", "tax calculation"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-041",
+        "title": "Financial Independence Calculator",
+        "prompt": "Write a financial independence calculator",
+        "keywords": ["financial independence", "FI calculator", "FIRE"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-042",
+        "title": "FIRE Calculator",
+        "prompt": "Create a FIRE calculator SEO page",
+        "keywords": ["FIRE", "early retirement", "financial planning"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-043",
+        "title": "Wealth Growth Calculator",
+        "prompt": "Generate a wealth growth calculator",
+        "keywords": ["wealth growth", "financial projections", "investments"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-044",
+        "title": "Passive Income Calculator",
+        "prompt": "Write a passive income calculator",
+        "keywords": ["passive income", "income streams", "investments"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-045",
+        "title": "Rent vs Buy Calculator",
+        "prompt": "Create a rent vs buy calculator",
+        "keywords": ["rent vs buy", "housing decision", "financial comparison"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-046",
+        "title": "Mortgage Affordability Calculator",
+        "prompt": "Generate a mortgage affordability calculator",
+        "keywords": ["mortgage affordability", "home buying", "housing budget"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-047",
+        "title": "Down Payment Calculator",
+        "prompt": "Write a down payment calculator",
+        "keywords": ["down payment", "home purchase", "mortgage"],
+        "priority": "high"
+      },
+      {
+        "id": "FIN-048",
+        "title": "Closing Cost Calculator",
+        "prompt": "Create a closing cost calculator",
+        "keywords": ["closing costs", "real estate", "home purchase"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-049",
+        "title": "Loan Comparison Calculator",
+        "prompt": "Generate a loan comparison calculator",
+        "keywords": ["loan comparison", "compare loans", "financial planning"],
+        "priority": "medium"
+      },
+      {
+        "id": "FIN-050",
+        "title": "Interest Rate Comparison",
+        "prompt": "Write an interest rate comparison page",
+        "keywords": ["interest rates", "rate comparison", "borrowing costs"],
+        "priority": "medium"
+      }
+    ]
+  },
+  "math": {
+    "category": "Math Calculators",
+    "count": 50,
+    "prompts": [
+      {
+        "id": "MATH-001",
+        "title": "Percentage Calculator",
+        "prompt": "Write a percentage calculator SEO page",
+        "keywords": ["percentage calculator", "percentage calculation", "math"],
+        "priority": "high"
+      },
+      {
+        "id": "MATH-002",
+        "title": "Fraction Calculator",
+        "prompt": "Create a fraction calculator guide",
+        "keywords": ["fraction", "fractions", "mathematics"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-003",
+        "title": "Decimal to Fraction Converter",
+        "prompt": "Generate a decimal to fraction calculator page",
+        "keywords": ["decimal to fraction", "conversion", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-004",
+        "title": "Ratio Calculator",
+        "prompt": "Write a ratio calculator SEO page",
+        "keywords": ["ratio", "proportion", "mathematics"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-005",
+        "title": "Proportion Calculator",
+        "prompt": "Create a proportion calculator page",
+        "keywords": ["proportion", "ratios", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-006",
+        "title": "Scientific Calculator",
+        "prompt": "Generate a scientific calculator landing page",
+        "keywords": ["scientific calculator", "math functions", "calculations"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-007",
+        "title": "Quadratic Equation Solver",
+        "prompt": "Write a quadratic equation solver page",
+        "keywords": ["quadratic equation", "algebra", "solver"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-008",
+        "title": "Linear Equation Calculator",
+        "prompt": "Create a linear equation calculator",
+        "keywords": ["linear equation", "algebra", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-009",
+        "title": "Slope Calculator",
+        "prompt": "Generate a slope calculator SEO page",
+        "keywords": ["slope", "line slope", "geometry"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-010",
+        "title": "Midpoint Calculator",
+        "prompt": "Write a midpoint calculator page",
+        "keywords": ["midpoint", "coordinate geometry", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-011",
+        "title": "Distance Formula Calculator",
+        "prompt": "Create a distance formula calculator",
+        "keywords": ["distance formula", "geometry", "coordinates"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-012",
+        "title": "Standard Deviation Calculator",
+        "prompt": "Generate a standard deviation calculator page",
+        "keywords": ["standard deviation", "statistics", "data analysis"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-013",
+        "title": "Variance Calculator",
+        "prompt": "Write a variance calculator SEO content",
+        "keywords": ["variance", "statistics", "data analysis"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-014",
+        "title": "Mean Median Mode Calculator",
+        "prompt": "Create a mean median mode calculator",
+        "keywords": ["mean", "median", "mode", "statistics"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-015",
+        "title": "Probability Calculator",
+        "prompt": "Generate a probability calculator page",
+        "keywords": ["probability", "statistics", "odds"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-016",
+        "title": "Permutation Calculator",
+        "prompt": "Write a permutation calculator page",
+        "keywords": ["permutation", "combinations", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-017",
+        "title": "Combination Calculator",
+        "prompt": "Create a combination calculator",
+        "keywords": ["combination", "permutation", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-018",
+        "title": "Factorial Calculator",
+        "prompt": "Generate a factorial calculator SEO page",
+        "keywords": ["factorial", "mathematics", "calculation"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-019",
+        "title": "Prime Number Checker",
+        "prompt": "Write a prime number checker page",
+        "keywords": ["prime number", "number theory", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-020",
+        "title": "GCD Calculator",
+        "prompt": "Create a GCD (Greatest Common Divisor) calculator",
+        "keywords": ["GCD", "greatest common divisor", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-021",
+        "title": "LCM Calculator",
+        "prompt": "Generate an LCM calculator page",
+        "keywords": ["LCM", "least common multiple", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-022",
+        "title": "Logarithm Calculator",
+        "prompt": "Write a logarithm calculator SEO page",
+        "keywords": ["logarithm", "log", "math functions"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-023",
+        "title": "Exponent Calculator",
+        "prompt": "Create an exponent calculator",
+        "keywords": ["exponent", "powers", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-024",
+        "title": "Roots Calculator",
+        "prompt": "Generate a roots calculator page",
+        "keywords": ["square root", "cube root", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-025",
+        "title": "Matrix Calculator",
+        "prompt": "Write a matrix calculator landing page",
+        "keywords": ["matrix", "linear algebra", "mathematics"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-026",
+        "title": "Determinant Calculator",
+        "prompt": "Create a determinant calculator",
+        "keywords": ["determinant", "matrix", "linear algebra"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-027",
+        "title": "Vector Calculator",
+        "prompt": "Generate a vector calculator page",
+        "keywords": ["vector", "linear algebra", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-028",
+        "title": "Graphing Calculator",
+        "prompt": "Write a graphing calculator SEO page",
+        "keywords": ["graphing", "graph", "visualization"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-029",
+        "title": "Trigonometry Calculator",
+        "prompt": "Create a trigonometry calculator",
+        "keywords": ["trigonometry", "trig functions", "math"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-030",
+        "title": "Sine Cosine Tangent Calculator",
+        "prompt": "Generate a sine cosine tangent calculator",
+        "keywords": ["sine", "cosine", "tangent", "trigonometry"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-031",
+        "title": "Unit Circle Calculator",
+        "prompt": "Write a unit circle calculator page",
+        "keywords": ["unit circle", "trigonometry", "angles"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-032",
+        "title": "Radians to Degrees Converter",
+        "prompt": "Create a radians to degrees calculator",
+        "keywords": ["radians", "degrees", "angle conversion"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-033",
+        "title": "Geometry Calculator",
+        "prompt": "Generate a geometry calculator page",
+        "keywords": ["geometry", "shapes", "calculations"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-034",
+        "title": "Circle Area Calculator",
+        "prompt": "Write a circle area calculator",
+        "keywords": ["circle area", "geometry", "math"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-035",
+        "title": "Triangle Area Calculator",
+        "prompt": "Create a triangle area calculator",
+        "keywords": ["triangle area", "geometry", "math"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-036",
+        "title": "Volume Calculator",
+        "prompt": "Generate a volume calculator page",
+        "keywords": ["volume", "3D shapes", "geometry"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-037",
+        "title": "Surface Area Calculator",
+        "prompt": "Write a surface area calculator",
+        "keywords": ["surface area", "geometry", "math"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-038",
+        "title": "Pythagorean Theorem Calculator",
+        "prompt": "Create a Pythagorean theorem calculator",
+        "keywords": ["Pythagorean theorem", "geometry", "right triangle"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-039",
+        "title": "Algebra Calculator",
+        "prompt": "Generate an algebra calculator",
+        "keywords": ["algebra", "algebraic expressions", "math"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-040",
+        "title": "Calculus Derivative Calculator",
+        "prompt": "Write a calculus derivative calculator",
+        "keywords": ["derivative", "calculus", "rate of change"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-041",
+        "title": "Integral Calculator",
+        "prompt": "Create an integral calculator",
+        "keywords": ["integral", "calculus", "mathematics"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-042",
+        "title": "Limit Calculator",
+        "prompt": "Generate a limit calculator page",
+        "keywords": ["limit", "calculus", "mathematics"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-043",
+        "title": "Sequence Calculator",
+        "prompt": "Write a sequence calculator",
+        "keywords": ["sequence", "arithmetic", "geometric"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-044",
+        "title": "Series Calculator",
+        "prompt": "Create a series calculator",
+        "keywords": ["series", "sum", "mathematics"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-045",
+        "title": "Binomial Calculator",
+        "prompt": "Generate a binomial calculator",
+        "keywords": ["binomial", "expansion", "algebra"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-046",
+        "title": "Polynomial Calculator",
+        "prompt": "Write a polynomial calculator",
+        "keywords": ["polynomial", "algebra", "math"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-047",
+        "title": "Roots Finder Calculator",
+        "prompt": "Create a roots finder calculator",
+        "keywords": ["roots", "solving equations", "algebra"],
+        "priority": "low"
+      },
+      {
+        "id": "MATH-048",
+        "title": "Math Solver",
+        "prompt": "Generate a math solver page",
+        "keywords": ["math solver", "equation solver", "calculations"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-049",
+        "title": "Step-by-Step Math Calculator",
+        "prompt": "Write a step-by-step math calculator",
+        "keywords": ["step-by-step", "math help", "learning"],
+        "priority": "medium"
+      },
+      {
+        "id": "MATH-050",
+        "title": "Math Problem Generator",
+        "prompt": "Create a math problem generator",
+        "keywords": ["math problems", "practice", "learning"],
+        "priority": "low"
+      }
+    ]
+  },
+  "health": {
+    "category": "Health Calculators",
+    "count": 40,
+    "prompts": [
+      {
+        "id": "HEALTH-001",
+        "title": "BMI Calculator",
+        "prompt": "Write a BMI calculator SEO page",
+        "keywords": ["BMI calculator", "body mass index", "health"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-002",
+        "title": "Calorie Calculator",
+        "prompt": "Create a calorie calculator landing page",
+        "keywords": ["calorie calculator", "daily calories", "nutrition"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-003",
+        "title": "BMR Calculator",
+        "prompt": "Generate a BMR calculator page",
+        "keywords": ["BMR", "basal metabolic rate", "metabolism"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-004",
+        "title": "Body Fat Calculator",
+        "prompt": "Write a body fat calculator",
+        "keywords": ["body fat percentage", "composition", "health"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-005",
+        "title": "Ideal Weight Calculator",
+        "prompt": "Create an ideal weight calculator",
+        "keywords": ["ideal weight", "health weight", "BMI"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-006",
+        "title": "Water Intake Calculator",
+        "prompt": "Generate a water intake calculator",
+        "keywords": ["water intake", "hydration", "health"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-007",
+        "title": "Macro Calculator",
+        "prompt": "Write a macro calculator page",
+        "keywords": ["macros", "macronutrients", "nutrition"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-008",
+        "title": "Protein Intake Calculator",
+        "prompt": "Create a protein intake calculator",
+        "keywords": ["protein", "daily protein", "nutrition"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-009",
+        "title": "Fat Intake Calculator",
+        "prompt": "Generate a fat intake calculator",
+        "keywords": ["fat intake", "dietary fats", "nutrition"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-010",
+        "title": "Carb Intake Calculator",
+        "prompt": "Write a carb intake calculator",
+        "keywords": ["carbohydrates", "carbs", "nutrition"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-011",
+        "title": "Pregnancy Due Date Calculator",
+        "prompt": "Create a pregnancy due date calculator",
+        "keywords": ["due date", "pregnancy", "calculator"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-012",
+        "title": "Ovulation Calculator",
+        "prompt": "Generate an ovulation calculator",
+        "keywords": ["ovulation", "fertility", "pregnancy"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-013",
+        "title": "Pregnancy Weight Gain Calculator",
+        "prompt": "Write a pregnancy weight gain calculator",
+        "keywords": ["pregnancy weight", "weight gain", "health"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-014",
+        "title": "Heart Rate Calculator",
+        "prompt": "Create a heart rate calculator",
+        "keywords": ["heart rate", "pulse", "cardio"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-015",
+        "title": "Target Heart Rate Calculator",
+        "prompt": "Generate a target heart rate page",
+        "keywords": ["target heart rate", "exercise", "fitness"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-016",
+        "title": "Blood Pressure Calculator",
+        "prompt": "Write a blood pressure calculator",
+        "keywords": ["blood pressure", "hypertension", "health"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-017",
+        "title": "Diabetes Risk Calculator",
+        "prompt": "Create a diabetes risk calculator",
+        "keywords": ["diabetes risk", "health screening", "prevention"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-018",
+        "title": "Smoking Cost Calculator",
+        "prompt": "Generate a smoking cost calculator",
+        "keywords": ["smoking costs", "health economics", "quit smoking"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-019",
+        "title": "Alcohol Intake Calculator",
+        "prompt": "Write an alcohol intake calculator",
+        "keywords": ["alcohol consumption", "health", "limits"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-020",
+        "title": "Sleep Calculator",
+        "prompt": "Create a sleep calculator",
+        "keywords": ["sleep calculator", "sleep schedule", "health"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-021",
+        "title": "Step Counter Calculator",
+        "prompt": "Generate a step counter calculator",
+        "keywords": ["steps", "pedometer", "activity"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-022",
+        "title": "Pace Calculator",
+        "prompt": "Write a pace calculator",
+        "keywords": ["running pace", "speed", "fitness"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-023",
+        "title": "Running Calorie Calculator",
+        "prompt": "Create a running calorie calculator",
+        "keywords": ["calories burned", "running", "exercise"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-024",
+        "title": "Cycling Calorie Calculator",
+        "prompt": "Generate a cycling calorie calculator",
+        "keywords": ["cycling", "calories burned", "exercise"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-025",
+        "title": "Swimming Calorie Calculator",
+        "prompt": "Write a swimming calorie calculator",
+        "keywords": ["swimming", "calories", "exercise"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-026",
+        "title": "Fitness Progress Calculator",
+        "prompt": "Create a fitness progress calculator",
+        "keywords": ["fitness tracking", "progress", "goals"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-027",
+        "title": "Body Mass Calculator",
+        "prompt": "Generate a body mass calculator",
+        "keywords": ["body mass", "weight", "health"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-028",
+        "title": "Lean Body Mass Calculator",
+        "prompt": "Write a lean body mass calculator",
+        "keywords": ["lean mass", "body composition", "health"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-029",
+        "title": "Waist-to-Hip Ratio Calculator",
+        "prompt": "Create a waist-to-hip ratio calculator",
+        "keywords": ["waist-to-hip ratio", "body shape", "health"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-030",
+        "title": "Metabolism Calculator",
+        "prompt": "Generate a metabolism calculator",
+        "keywords": ["metabolism", "metabolic rate", "health"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-031",
+        "title": "Hydration Calculator",
+        "prompt": "Write a hydration calculator",
+        "keywords": ["water intake", "hydration", "health"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-032",
+        "title": "Nutrition Calculator",
+        "prompt": "Create a nutrition calculator",
+        "keywords": ["nutrition", "nutrients", "diet"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-033",
+        "title": "Diet Planner Calculator",
+        "prompt": "Generate a diet planner calculator",
+        "keywords": ["diet planning", "meal planning", "nutrition"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-034",
+        "title": "Weight Loss Calculator",
+        "prompt": "Write a weight loss calculator",
+        "keywords": ["weight loss", "calories", "health"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-035",
+        "title": "Weight Gain Calculator",
+        "prompt": "Create a weight gain calculator",
+        "keywords": ["weight gain", "muscle", "fitness"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-036",
+        "title": "Calorie Deficit Calculator",
+        "prompt": "Generate a calorie deficit calculator",
+        "keywords": ["calorie deficit", "weight loss", "diet"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-037",
+        "title": "Calorie Surplus Calculator",
+        "prompt": "Write a calorie surplus calculator",
+        "keywords": ["calorie surplus", "muscle gain", "diet"],
+        "priority": "high"
+      },
+      {
+        "id": "HEALTH-038",
+        "title": "Fasting Calculator",
+        "prompt": "Create a fasting calculator",
+        "keywords": ["intermittent fasting", "fasting", "diet"],
+        "priority": "medium"
+      },
+      {
+        "id": "HEALTH-039",
+        "title": "Health Risk Calculator",
+        "prompt": "Generate a health risk calculator",
+        "keywords": ["health risk", "risk assessment", "screening"],
+        "priority": "low"
+      },
+      {
+        "id": "HEALTH-040",
+        "title": "Wellness Score Calculator",
+        "prompt": "Write a wellness score calculator",
+        "keywords": ["wellness", "health score", "assessment"],
+        "priority": "low"
+      }
+    ]
+  },
+  "utility": {
+    "category": "Utility Calculators",
+    "count": 60,
+    "prompts": [
+      {
+        "id": "UTIL-001",
+        "title": "Age Calculator",
+        "prompt": "Write an age calculator SEO page",
+        "keywords": ["age calculator", "date of birth", "age"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-002",
+        "title": "Date Calculator",
+        "prompt": "Create a date calculator landing page",
+        "keywords": ["date calculator", "days between", "dates"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-003",
+        "title": "Time Calculator",
+        "prompt": "Generate a time calculator page",
+        "keywords": ["time calculator", "time duration", "hours"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-004",
+        "title": "Timezone Converter",
+        "prompt": "Write a timezone converter",
+        "keywords": ["timezone converter", "time zones", "UTC"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-005",
+        "title": "Countdown Calculator",
+        "prompt": "Create a countdown calculator",
+        "keywords": ["countdown", "days until", "event"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-006",
+        "title": "Work Hours Calculator",
+        "prompt": "Generate a work hours calculator",
+        "keywords": ["work hours", "time tracking", "productivity"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-007",
+        "title": "Payroll Hours Calculator",
+        "prompt": "Write a payroll hours calculator",
+        "keywords": ["payroll", "hours worked", "pay calculation"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-008",
+        "title": "GPA Calculator",
+        "prompt": "Create a GPA calculator",
+        "keywords": ["GPA calculator", "grade point average", "education"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-009",
+        "title": "Grade Calculator",
+        "prompt": "Generate a grade calculator",
+        "keywords": ["grade calculator", "grades", "school"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-010",
+        "title": "Study Time Calculator",
+        "prompt": "Write a study time calculator",
+        "keywords": ["study time", "learning", "education"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-011",
+        "title": "Unit Converter",
+        "prompt": "Create a unit converter page",
+        "keywords": ["unit converter", "measurement conversion", "units"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-012",
+        "title": "Length Converter",
+        "prompt": "Generate a length converter",
+        "keywords": ["length", "distance conversion", "measurements"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-013",
+        "title": "Weight Converter",
+        "prompt": "Write a weight converter",
+        "keywords": ["weight", "mass conversion", "measurements"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-014",
+        "title": "Temperature Converter",
+        "prompt": "Create a temperature converter",
+        "keywords": ["temperature", "Celsius", "Fahrenheit"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-015",
+        "title": "Speed Converter",
+        "prompt": "Generate a speed converter",
+        "keywords": ["speed", "velocity conversion", "measurements"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-016",
+        "title": "Volume Converter",
+        "prompt": "Write a volume converter",
+        "keywords": ["volume", "liquid measurements", "conversion"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-017",
+        "title": "Data Storage Converter",
+        "prompt": "Create a data storage converter",
+        "keywords": ["data storage", "byte conversion", "digital"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-018",
+        "title": "Fuel Efficiency Calculator",
+        "prompt": "Generate a fuel efficiency calculator",
+        "keywords": ["fuel efficiency", "MPG", "gas mileage"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-019",
+        "title": "Trip Cost Calculator",
+        "prompt": "Write a trip cost calculator",
+        "keywords": ["trip cost", "travel budget", "expenses"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-020",
+        "title": "Travel Time Calculator",
+        "prompt": "Create a travel time calculator",
+        "keywords": ["travel time", "journey duration", "distance"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-021",
+        "title": "Password Generator",
+        "prompt": "Generate a password generator page",
+        "keywords": ["password generator", "security", "strong passwords"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-022",
+        "title": "Random Number Generator",
+        "prompt": "Write a random number generator",
+        "keywords": ["random number", "generator", "random"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-023",
+        "title": "Lottery Odds Calculator",
+        "prompt": "Create a lottery odds calculator",
+        "keywords": ["lottery", "odds", "probability"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-024",
+        "title": "Name Picker Tool",
+        "prompt": "Generate a name picker tool",
+        "keywords": ["name picker", "name generator", "random"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-025",
+        "title": "Probability Simulator",
+        "prompt": "Write a probability simulator",
+        "keywords": ["probability", "simulation", "statistics"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-026",
+        "title": "Tip Split Calculator",
+        "prompt": "Create a tip split calculator",
+        "keywords": ["tip split", "bill splitting", "expenses"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-027",
+        "title": "Bill Splitter Calculator",
+        "prompt": "Generate a bill splitter calculator",
+        "keywords": ["bill splitter", "split bill", "roommates"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-028",
+        "title": "Shopping Discount Calculator",
+        "prompt": "Write a shopping discount calculator",
+        "keywords": ["shopping", "discounts", "savings"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-029",
+        "title": "Coupon Savings Calculator",
+        "prompt": "Create a coupon savings calculator",
+        "keywords": ["coupons", "savings", "discount codes"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-030",
+        "title": "Price Comparison Calculator",
+        "prompt": "Generate a price comparison calculator",
+        "keywords": ["price comparison", "best deal", "shopping"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-031",
+        "title": "Cooking Measurement Converter",
+        "prompt": "Write a cooking measurement converter",
+        "keywords": ["cooking measurements", "recipe", "conversion"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-032",
+        "title": "Recipe Scaling Calculator",
+        "prompt": "Create a recipe scaling calculator",
+        "keywords": ["recipe scaling", "cooking", "portions"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-033",
+        "title": "Construction Cost Calculator",
+        "prompt": "Generate a construction cost calculator",
+        "keywords": ["construction costs", "building", "budget"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-034",
+        "title": "Paint Calculator",
+        "prompt": "Write a paint calculator",
+        "keywords": ["paint calculator", "paint needed", "renovation"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-035",
+        "title": "Tile Calculator",
+        "prompt": "Create a tile calculator",
+        "keywords": ["tile calculator", "flooring", "renovation"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-036",
+        "title": "Concrete Calculator",
+        "prompt": "Generate a concrete calculator",
+        "keywords": ["concrete", "driveway", "cubic yards"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-037",
+        "title": "Landscaping Calculator",
+        "prompt": "Write a landscaping calculator",
+        "keywords": ["landscaping", "yard", "garden"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-038",
+        "title": "Electricity Cost Calculator",
+        "prompt": "Create an electricity cost calculator",
+        "keywords": ["electricity costs", "energy bills", "utilities"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-039",
+        "title": "Solar Savings Calculator",
+        "prompt": "Generate a solar savings calculator",
+        "keywords": ["solar", "renewable energy", "savings"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-040",
+        "title": "Battery Life Calculator",
+        "prompt": "Write a battery life calculator",
+        "keywords": ["battery", "battery life", "devices"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-041",
+        "title": "Screen Size Calculator",
+        "prompt": "Create a screen size calculator",
+        "keywords": ["screen size", "monitor", "resolution"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-042",
+        "title": "Resolution Calculator",
+        "prompt": "Generate a resolution calculator",
+        "keywords": ["resolution", "pixels", "display"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-043",
+        "title": "Download Time Calculator",
+        "prompt": "Write a download time calculator",
+        "keywords": ["download time", "internet speed", "file size"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-044",
+        "title": "Internet Speed Calculator",
+        "prompt": "Create an internet speed calculator",
+        "keywords": ["internet speed", "bandwidth", "connection"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-045",
+        "title": "File Size Calculator",
+        "prompt": "Generate a file size calculator",
+        "keywords": ["file size", "storage", "digital"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-046",
+        "title": "Storage Calculator",
+        "prompt": "Write a storage calculator",
+        "keywords": ["storage capacity", "requirements", "space"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-047",
+        "title": "Gaming Stats Calculator",
+        "prompt": "Create a gaming stats calculator",
+        "keywords": ["gaming", "stats", "performance"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-048",
+        "title": "XP Calculator",
+        "prompt": "Generate an XP calculator",
+        "keywords": ["experience points", "leveling", "progress"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-049",
+        "title": "Ranking Calculator",
+        "prompt": "Write a ranking calculator",
+        "keywords": ["ranking", "leaderboard", "scores"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-050",
+        "title": "Leaderboard Calculator",
+        "prompt": "Create a leaderboard calculator",
+        "keywords": ["leaderboard", "scores", "ranking"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-051",
+        "title": "Goal Tracker Calculator",
+        "prompt": "Generate a goal tracker calculator",
+        "keywords": ["goal tracking", "progress", "achievement"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-052",
+        "title": "Habit Tracker Calculator",
+        "prompt": "Write a habit tracker calculator",
+        "keywords": ["habit tracking", "daily habits", "productivity"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-053",
+        "title": "Productivity Calculator",
+        "prompt": "Create a productivity calculator",
+        "keywords": ["productivity", "time management", "efficiency"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-054",
+        "title": "Pomodoro Timer Calculator",
+        "prompt": "Generate a Pomodoro timer calculator",
+        "keywords": ["Pomodoro", "timer", "productivity"],
+        "priority": "high"
+      },
+      {
+        "id": "UTIL-055",
+        "title": "Focus Time Calculator",
+        "prompt": "Write a focus time calculator",
+        "keywords": ["focus time", "concentration", "productivity"],
+        "priority": "medium"
+      },
+      {
+        "id": "UTIL-056",
+        "title": "Life Expectancy Calculator",
+        "prompt": "Create a life expectancy calculator",
+        "keywords": ["life expectancy", "lifespan", "mortality"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-057",
+        "title": "Happiness Calculator",
+        "prompt": "Generate a happiness calculator",
+        "keywords": ["happiness", "well-being", "life satisfaction"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-058",
+        "title": "Decision-Making Calculator",
+        "prompt": "Write a decision-making calculator",
+        "keywords": ["decision making", "choices", "analysis"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-059",
+        "title": "Risk Calculator",
+        "prompt": "Create a risk calculator",
+        "keywords": ["risk assessment", "probability", "decision"],
+        "priority": "low"
+      },
+      {
+        "id": "UTIL-060",
+        "title": "Custom Calculator Landing Page",
+        "prompt": "Generate a custom calculator landing page",
+        "keywords": ["calculator", "tool", "custom"],
+        "priority": "low"
+      }
+    ]
+  }
+}
